@@ -280,9 +280,6 @@ NSLog(@"%@", [dateFormatter stringFromDate:yourDate]);
 - iOS 7 or higher
 - Automatic Reference Counting (ARC)
 
-## Author
-
-- [Jonathan Tribouharet](https://github.com/jonathantribouharet) ([@johntribouharet](https://twitter.com/johntribouharet))
 
 ## License
 
